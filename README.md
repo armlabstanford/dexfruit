@@ -31,15 +31,15 @@ Stanford University
 **DexFruit** enables robots to handle delicate fruits 🍓🍅🫐 like strawberries tomatoes and blackberries, We combine:
 
 - 🤖 **Tactile-aware diffusion policies** for gentle manipulation
-- 🎯 **FruitSplat** - a novel 3D Gaussian Splatting method for damage inspection
+- 🎯 **FruitSplat** - a novel 3D Gaussian Splatting method for damage inspection found [here](https://github.com/Realexqiu/fruitsplat)
 - 📊 **Rigorous evaluation** over 630+ experimental trials
 
 ### Key Results
 
-- ✅ **92% grasping success rate** across strawberries, tomatoes, and blackberries
-- 📉 **20% reduction in visual bruising** compared to vision-only baselines
-- 🎯 **31% improvement** in grasp success on challenging fruits
-- 📷 **Quantitative 3D damage analysis** using only a webcam!
+- **92% grasping success rate** across strawberries, tomatoes, and blackberries
+- **20% reduction in visual bruising** compared to vision-only baselines
+- **31% improvement** in grasp success on challenging fruits
+- **Quantitative 3D damage analysis** using only a webcam!
 
 <div align="center">
   <img src="splash.png" alt="DexFruit Teaser" width="80%">
@@ -59,6 +59,8 @@ We integrate **optical tactile sensing** (DenseTact sensors) with **diffusion po
 - Photorealistic 3D reconstruction from webcam videos
 - Automated bruise detection and segmentation
 - Quantitative damage metrics
+
+**Find FruitSplat [here](https://github.com/Realexqiu/fruitsplat)!**
 
 ---
 
